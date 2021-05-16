@@ -1,0 +1,28 @@
+.main-component {
+  height: 100vh;
+  background-color: #0B9597;
+}
+
+.bitcoin-rate {
+  display: flex;
+  justify-content: center;
+  height: 40%;
+  color: #E9AA20;
+  font-size: 40px;
+}
+
+.bitcoin-dropdown {
+  display: flex;
+  justify-content: center;
+}
+
+#currency {
+  width: 70px;
+}
+
+.bitcoin-svg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 20%;
+}
